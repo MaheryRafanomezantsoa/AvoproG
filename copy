@@ -1,0 +1,15 @@
+   <div class="container">
+            <div class="row">
+                <a href="" class="logo"><img src="img/logo.png"></a>
+                <nav>
+                    <ul>
+                        <li><a href="/">A propos</a></li>
+                        <li><a href="">Nos projets</a></li>
+                        <li><a href="">Nos services</a></li>
+                        <li><a href="">Nos clients</a></li>
+                        <li><a href="">L'équipe</a></li>
+                        <li><a href="">Contact</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
